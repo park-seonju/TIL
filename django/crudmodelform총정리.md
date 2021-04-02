@@ -1,13 +1,3 @@
-## 프로젝트 구조
-
-![image-20210319153946787](README.assets/image-20210319153946787.png)
-
-
-
-![image-20210319154005521](README.assets/image-20210319154005521.png)
-
-
-
 ## 시작
 
 - 가상환경 설정 / 라이브러리 설치 / .gitignore추가 / freeze > requiremets.txt 저장
