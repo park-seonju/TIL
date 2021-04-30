@@ -1,3 +1,7 @@
+pip install djangorestframework
+
+pip install django-seed
+
 python manage.py seed articles --number=20
 
 20개의 랜덤 데이터를 생성함 articles 안에!
